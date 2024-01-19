@@ -128,10 +128,10 @@ def main():
     st.header('', divider='red')
     st.sidebar.image('./img/logos/logo_app.png', use_column_width='always')
     st.sidebar.markdown(
-        "<h3 style='text-align:center; font-family:Verdana'>Filtros:</h3>",
+        "<h4 style='text-align:center; font-family:Verdana'>Selecione as Configurações do Imóvel Usando os Filtros:</h4>",
         unsafe_allow_html=True,
     )
-    st.sidebar.header('', divider='red')
+    # st.sidebar.header('', divider='red')
 
     # Filtros
     cidade = st.sidebar.selectbox(
