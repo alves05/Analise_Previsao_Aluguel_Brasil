@@ -1,5 +1,7 @@
 # Análises e Previsões de Aluguel de Casas no Brasil
 
+### Veja a análise completa desse projeto em [Análise e Previsões de Alugueis no Brasil](https://sites.google.com/view/portflio-wiliams-alves/in%C3%ADcio/previs%C3%A3o-de-alugueis?authuser=0).
+
 ## Objetivo
 objetivo deste projeto é desenvolver um modelo de machine learning de regressão capaz de prever com precisão os preços de aluguéis em cinco cidades brasileiras que são Belo Horizonte, Campinas, Porto Alegre, Rio de Janeiro e São Paulo. O escopo do projeto abrange a implementação desse modelo em um aplicativo de dados, proporcionando aos usuários uma ferramenta prática para estimar os custos de aluguel com base em diferentes características imobiliárias.
 
